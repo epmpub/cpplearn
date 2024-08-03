@@ -1,6 +1,6 @@
-all: SaveTimeToFile.cpp
+all: SaveTimeToFile.cpp iterator_demo.cpp
 
-EXE=SaveTimeToFile
+EXE=SaveTimeToFile iterator_demo
 
 all: $(EXE)
 
