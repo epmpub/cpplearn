@@ -1,6 +1,6 @@
-all: SaveTimeToFile.cpp iterator_demo.cpp
+all: SaveTimeToFile.cpp iterator_demo.cpp remove_duplicate.cpp
 
-EXE=SaveTimeToFile iterator_demo
+EXE=SaveTimeToFile iterator_demo remove_duplicate
 
 all: $(EXE)
 
